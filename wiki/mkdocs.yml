@@ -5,4 +5,5 @@ nav:
     - Buying Guide: buying.md
     - Setting Gains: gains.md
     - Sound Deadener Showdown Archive: SDS.md
-theme: readthedocs
+theme:
+  name: material
