@@ -6,17 +6,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://turb0yoda.github.io/SDS/</loc>
-         <lastmod>2021-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://turb0yoda.github.io/buying/</loc>
          <lastmod>2021-12-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://turb0yoda.github.io/gains/</loc>
+         <lastmod>2021-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://turb0yoda.github.io/SDS/SDS/</loc>
+         <lastmod>2021-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://turb0yoda.github.io/SDS/Three_Easy_Steps/</loc>
          <lastmod>2021-12-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
