@@ -7,3 +7,4 @@ nav:
     - Sound Deadener Showdown Archive: SDS.md
 theme:
   name: material
+  scheme: slate
