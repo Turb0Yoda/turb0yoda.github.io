@@ -1,0 +1,7 @@
+site_name: CarAV Wiki
+site_url: https://turb0yoda.github.io/
+nav:
+    - Home: index.md
+    - Buying Guide: buying.md
+    - Setting Gains: gains.md
+theme: readthedocs
